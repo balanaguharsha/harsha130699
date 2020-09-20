@@ -1,16 +1,22 @@
 ### Hi there 👋
+ 
 
-<!--
-**harsha130699/harsha130699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ # Harish S.G
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ [![Gmail Badge](https://img.shields.io/badge/-harishsg99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:balanaguharshavardhan@gmail.com)](mailto:balanaguharshavardhan@gmail.com)
+ 
+I'm Harish ,An aspiring web developer ,android developer and  entrepreneur who believes good product just solves your problem but best product changes your way of life.
+ 
+- 🔭 I’m currently working on an AI product and Oreoweb framework with inbuilt NitroDB
+
+ - 🌱 I  love to play guitar.
+
+ - 🌱 I am a cybersecurity and AI enthusiastist.
+
+ - ⚡ Languages: Python3, C++, Java,Javascript,Dart and Scooplang(its my own programing language)
+
+ - 🌱 I love to build libraries in python and node js to make work for developers easier
+ 
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=harsha130699&show_icons=true" alt="harishsg99" /></p>
+ 
