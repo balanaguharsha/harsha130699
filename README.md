@@ -2,7 +2,7 @@
  
 
 
- # Harsha Vardhan
+ # Balanagu Harsha Vardhan
 
  [![Gmail Badge](https://img.shields.io/badge/-balanaguharshavardhan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:balanaguharshavardhan@gmail.com)](mailto:balanaguharshavardhan@gmail.com)
  
